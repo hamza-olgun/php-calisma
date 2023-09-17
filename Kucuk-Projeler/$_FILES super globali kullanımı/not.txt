@@ -1,0 +1,1 @@
+$_FILES super globali parçacıklı dosya gönderdiğinden dolayı daima post ile gönderilir.
