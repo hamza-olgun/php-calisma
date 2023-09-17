@@ -1,0 +1,1 @@
+$_REQUEST super globali ile GET,POST isteklerinin ikisinide kontrol edip hangisiyle istek yollanmışsa ona göre cevap verebiliyor.Yani ikisine de cevap verebiliyor fakat güvenlik açığına sebebiyet veriyor.
